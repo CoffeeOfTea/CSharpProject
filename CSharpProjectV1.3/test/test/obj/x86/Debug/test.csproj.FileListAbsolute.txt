@@ -1,0 +1,37 @@
+c:\users\administrator\documents\visual studio 2010\Projects\test\test\bin\Debug\test.exe
+c:\users\administrator\documents\visual studio 2010\Projects\test\test\bin\Debug\test.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\test\test\obj\x86\Debug\test.login.resources
+c:\users\administrator\documents\visual studio 2010\Projects\test\test\obj\x86\Debug\test.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\test\test\obj\x86\Debug\test.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2010\Projects\test\test\obj\x86\Debug\test.exe
+c:\users\administrator\documents\visual studio 2010\Projects\test\test\obj\x86\Debug\test.pdb
+C:\Users\Administrator\Desktop\test\test\obj\x86\Debug\test.exe
+C:\Users\Administrator\Desktop\test\test\obj\x86\Debug\test.pdb
+C:\Users\Administrator\Desktop\test\test\bin\Debug\test.exe
+C:\Users\Administrator\Desktop\test\test\bin\Debug\test.pdb
+C:\Users\Administrator\Desktop\test\test\obj\x86\Debug\test.Properties.Resources.resources
+C:\Users\Administrator\Desktop\test\test\obj\x86\Debug\test.studentview.resources
+C:\Users\Administrator\Desktop\test\test\obj\x86\Debug\test.teacherview.resources
+C:\Users\Administrator\Desktop\test\test\obj\x86\Debug\test.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\test\test\obj\x86\Debug\test.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\test\test\obj\x86\Debug\test.studentinformation.resources
+C:\Users\Administrator\Desktop\test\test\bin\Debug\test.exe.config
+C:\Users\Administrator\Desktop\test\test\obj\x86\Debug\test.Form1.resources
+C:\Users\Administrator\Desktop\test\test\obj\x86\Debug\test.search.resources
+C:\Users\Administrator\Desktop\test\test\obj\x86\Debug\test.add.resources
+C:\Users\Administrator\Desktop\test\test\obj\x86\Debug\test.update.resources
+G:\StudentDocument\C#作业文档\大作业\Desktop\test\test\bin\Debug\test.exe.config
+G:\StudentDocument\C#作业文档\大作业\Desktop\test\test\obj\x86\Debug\test.exe
+G:\StudentDocument\C#作业文档\大作业\Desktop\test\test\obj\x86\Debug\test.pdb
+G:\StudentDocument\C#作业文档\大作业\Desktop\test\test\bin\Debug\test.exe
+G:\StudentDocument\C#作业文档\大作业\Desktop\test\test\bin\Debug\test.pdb
+G:\StudentDocument\C#作业文档\大作业\Desktop\test\test\obj\x86\Debug\test.csprojResolveAssemblyReference.cache
+G:\StudentDocument\C#作业文档\大作业\Desktop\test\test\obj\x86\Debug\test.add.resources
+G:\StudentDocument\C#作业文档\大作业\Desktop\test\test\obj\x86\Debug\test.Form1.resources
+G:\StudentDocument\C#作业文档\大作业\Desktop\test\test\obj\x86\Debug\test.Properties.Resources.resources
+G:\StudentDocument\C#作业文档\大作业\Desktop\test\test\obj\x86\Debug\test.search.resources
+G:\StudentDocument\C#作业文档\大作业\Desktop\test\test\obj\x86\Debug\test.studentinformation.resources
+G:\StudentDocument\C#作业文档\大作业\Desktop\test\test\obj\x86\Debug\test.studentview.resources
+G:\StudentDocument\C#作业文档\大作业\Desktop\test\test\obj\x86\Debug\test.teacherview.resources
+G:\StudentDocument\C#作业文档\大作业\Desktop\test\test\obj\x86\Debug\test.update.resources
+G:\StudentDocument\C#作业文档\大作业\Desktop\test\test\obj\x86\Debug\test.csproj.GenerateResource.Cache
